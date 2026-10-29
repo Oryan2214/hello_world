@@ -1,5 +1,5 @@
 # Hello World
 
-My first project for MIS 58710. It prints a freeting.
+My first project for MIS 58710. It prints a greeting.
 
-Rin it with 'poetry run python hello.py'
+Run it with 'poetry run python hello.py'
